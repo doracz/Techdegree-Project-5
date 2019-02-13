@@ -22,3 +22,9 @@
   margin-bottom: 30px;
   width: 45%;
 }
+
+@media screen and (min-width: 768px) {
+  #search {
+    box-shadow: 1px 0px rgba(0,0,0,0.15);
+  }
+}
