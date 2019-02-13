@@ -1,0 +1,24 @@
+
+/* =====================================
+   Main Styles
+======================================== */
+
+* {
+	box-sizing: border-box;
+}
+
+/* =====================================
+   Lightbox CSS modifications
+======================================== */
+
+.lb-data .lb-details {
+	width: 100%;
+  float: left;
+	padding-top: 10px;
+  line-height: 1.1em;
+}
+
+.lb-data .lb-caption {
+  font-size: 20px;
+  line-height: 1em;
+}
